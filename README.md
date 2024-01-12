@@ -1,4 +1,4 @@
-# Java-String-Operations
+# Java-Program-Practice
 Basic Java String Programs
 #Sr.No. - Question
 
